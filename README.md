@@ -5,7 +5,7 @@
 
 Dotjs 
 
-## DeekSeek
+## DeepSeek
 
 https://podcasts.apple.com/us/podcast/your-guide-to-the-deepseek-freakout-an-emergency-pod/id1528594034?i=1000686000838
 
